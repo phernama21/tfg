@@ -1,0 +1,8 @@
+prefix=/home/user/tfg_robot/install
+
+Name: rubot_mecanum_description
+Description: Description of rubot_mecanum_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

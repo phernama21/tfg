@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="rubot_slam" type="waypoints_goal_params.py" name="movebase_client_waypoints" output="screen" >
+    <param name="waypoints_file" value="$(find rubot_slam)/config/waypoints.yaml" />
+  </node>
+</launch>

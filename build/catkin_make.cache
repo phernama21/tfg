@@ -1,0 +1,2 @@
+rubot_control:rubot_mecanum_description:rubot_projects:rubot_slam
+-DCATKIN_DEVEL_PREFIX=/home/user/tfg_robot/devel -DCMAKE_INSTALL_PREFIX=/home/user/tfg_robot/install -G Unix Makefiles
